@@ -1,0 +1,5 @@
+name: 'Setup Pantheon Terminus composer plugin'
+description: 'Installs Terminus composer plugin.'
+runs:
+  using: 'node12'
+  main: 'index.js'
